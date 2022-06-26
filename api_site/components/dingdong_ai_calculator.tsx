@@ -1,6 +1,4 @@
-import { Result } from "aws-cdk-lib/aws-stepfunctions";
 import React from "react";
-import { resourceLimits } from "worker_threads";
 import Form from "./form";
 import Results from "./results";
 import Image from "next/image";
